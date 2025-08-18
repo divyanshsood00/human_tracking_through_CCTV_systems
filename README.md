@@ -41,7 +41,7 @@ An advanced AI-powered surveillance solution that automates the detection, recog
 * Handles **multiple videos, multiple faces, and complex backgrounds**
 * Produces **timestamped unified video output** of the tracked individual
 * **Average Accuracy:** 90.47% across test cases
-* **Results can be observed in output_ files in output videos folder:** [human_tracking_through_CCTV_systems/videos-outputs/cafefirst/](https://github.com/divyanshsood00/human_tracking_through_CCTV_systems/tree/main/videos-outputs/cafefirst)
+* **Results can be observed in output_ files in output videos folder(other files there are inputs):** [human_tracking_through_CCTV_systems/videos-outputs/cafefirst/](https://github.com/divyanshsood00/human_tracking_through_CCTV_systems/tree/main/videos-outputs/cafefirst)
 
 ---
 
