@@ -1,3 +1,14 @@
+## Example demonstration
+##### Input CCTV streams:
+- [Input video stream 1 youtube](https://youtu.be/BoEM-m5oenM)
+- [Input video stream 2 youtube](https://youtu.be/Cpjj824YCWs)
+- [Input video stream 3 youtube](https://youtu.be/oSv5AUj0e1w)
+##### After processing that on this face
+- [Suspect Photo](./divyansh/divyansh63.png)
+##### Output Stream
+- [Output Video Stream youtube](https://youtu.be/F9jJOiSSA1s)
+
+
 ### 📌 Human Tracking in CCTV Systems
 
 An advanced AI-powered surveillance solution that automates the detection, recognition, and tracking of individuals across multiple CCTV feeds. This project eliminates the need for manual monitoring, significantly reducing time, cost, and human error in large-scale surveillance systems.
